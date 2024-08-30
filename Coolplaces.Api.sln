@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coolplaces.Api", "Coolplaces.Api\Coolplaces.Api.csproj", "{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD64CCE5-6D16-47A3-AC61-89030631D04B}
+	EndGlobalSection
+EndGlobal

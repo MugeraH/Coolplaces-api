@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|c:\\users\\administrator\\desktop\\learn\\c#\\coolplaces.api\\coolplaces.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|solutionrelative:coolplaces.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|c:\\users\\administrator\\desktop\\learn\\c#\\coolplaces.api\\coolplaces.api\\controllers\\jointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|solutionrelative:coolplaces.api\\controllers\\jointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|c:\\users\\administrator\\desktop\\learn\\c#\\coolplaces.api\\coolplaces.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|solutionrelative:coolplaces.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|c:\\users\\administrator\\desktop\\learn\\c#\\coolplaces.api\\coolplaces.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|solutionrelative:coolplaces.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|c:\\users\\administrator\\desktop\\learn\\c#\\coolplaces.api\\coolplaces.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|solutionrelative:coolplaces.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|c:\\users\\administrator\\desktop\\learn\\c#\\coolplaces.api\\coolplaces.api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|solutionrelative:coolplaces.api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|c:\\users\\administrator\\desktop\\learn\\c#\\coolplaces.api\\coolplaces.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|solutionrelative:coolplaces.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|c:\\users\\administrator\\desktop\\learn\\c#\\coolplaces.api\\coolplaces.api\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|solutionrelative:coolplaces.api\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|c:\\users\\administrator\\desktop\\learn\\c#\\coolplaces.api\\coolplaces.api\\migrations\\20240829093526_initialmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5A0A0D-B550-4416-BA7D-C49140A21BAA}|Coolplaces.Api\\Coolplaces.Api.csproj|solutionrelative:coolplaces.api\\migrations\\20240829093526_initialmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Coolplaces.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Coolplaces.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T02:42:09.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Coolplaces.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\appsettings.json",
+              "RelativeToolTip": "Coolplaces.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T02:40:35.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Coolplaces.Api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Coolplaces.Api\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:37:21.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Coolplaces.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\Program.cs",
+              "RelativeToolTip": "Coolplaces.Api\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:34:18.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Coolplaces.Api\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Coolplaces.Api\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:25:13.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Coolplaces.Api\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\Services\\AuthService.cs",
+              "RelativeToolTip": "Coolplaces.Api\\Services\\AuthService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwEQAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:54:53.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JointController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\Controllers\\JointController.cs",
+              "RelativeDocumentMoniker": "Coolplaces.Api\\Controllers\\JointController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\Controllers\\JointController.cs",
+              "RelativeToolTip": "Coolplaces.Api\\Controllers\\JointController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T02:26:54.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240829093526_initialMigrations.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\Migrations\\20240829093526_initialMigrations.cs",
+              "RelativeDocumentMoniker": "Coolplaces.Api\\Migrations\\20240829093526_initialMigrations.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\Migrations\\20240829093526_initialMigrations.cs",
+              "RelativeToolTip": "Coolplaces.Api\\Migrations\\20240829093526_initialMigrations.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:35:27.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\Models\\LoginUser.cs",
+              "RelativeDocumentMoniker": "Coolplaces.Api\\Models\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LEARN\\C#\\Coolplaces.Api\\Coolplaces.Api\\Models\\LoginUser.cs",
+              "RelativeToolTip": "Coolplaces.Api\\Models\\LoginUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:38:15.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
